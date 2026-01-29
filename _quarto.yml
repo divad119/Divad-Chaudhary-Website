@@ -7,6 +7,12 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: cv.qmd
+        text: CV
+      - href: contact.qmd
+        text: Contact
+      - href: blog.qmd
+        text: Blog
       - about.qmd
 
 format:
@@ -17,5 +23,5 @@ format:
     css: styles.css
     toc: true
 
-editor: visual
+editor: visual 
 

@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Divad Chaudhary Website",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Student at number: 3159752\n\n\n\n\nMy name is Divad Chaudhary. I am a student at the University of Winnipeg. I am in my 3rd year pursuing a Bachelors of Arts Degree in Economics."
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,19 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#credentials",
+    "href": "index.html#credentials",
+    "title": "Divad Chaudhary Website",
+    "section": "",
+    "text": "Student at number: 3159752"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Divad Chaudhary Website",
+    "section": "",
+    "text": "My name is Divad Chaudhary. I am a student at the University of Winnipeg. I am in my 3rd year pursuing a Bachelors of Arts Degree in Economics."
   }
 ]

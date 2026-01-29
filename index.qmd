@@ -2,10 +2,12 @@
 title: "Divad Chaudhary Website"
 ---
 
-This is a Quarto website.
+# Divad Chaudhary
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Credentials
 
-```{r}
-1 + 1
-```
+-   Student at number: 3159752
+
+## About Me
+
+My name is Divad Chaudhary. I am a student at the University of Winnipeg. I am in my 3rd year pursuing a Bachelors of Arts Degree in Economics.
