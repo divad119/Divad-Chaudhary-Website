@@ -2,5 +2,7 @@
 title: "Contact"
 format: html
 ---
+
 # Contact Information
-chaudhary-d@webmail.uwinnipeg.ca
+
+chaudhary-d\@webmail.uwinnipeg.ca
