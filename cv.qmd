@@ -3,3 +3,26 @@ title: "cv"
 format: html
 ---
 
+# Curricilum Vitae
+
+## Divad Chaudhary
+
+Email: chaudhary-d\@webmail.uwinnipeg.ca
+
+## Education
+
+-   Bachelors of arts in Economics (In Progress) - University of Winnipeg
+
+## Skills
+
+-   MS Word
+
+-   R Programming
+
+-   Data Analytics
+
+-   Team Player
+
+## Experience
+
+-   OCM Support (ERP Modernization) - Government of Manitoba (October 2024 - Ongoing)
